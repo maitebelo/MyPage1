@@ -1,0 +1,77 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+html{
+    background-image: linear-gradient(to bottom right, MistyRose, Coral);
+    }
+  
+.menu{
+     background-color: Cornsilk;
+     padding: 1px; 
+    text-align: center;
+    }  
+h1{
+    color: LightCoral;
+    align-items: center; 
+    font-size: 30x;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+h2{
+    color: LightCoral;
+    align-items: center; 
+    font-size: 20x;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-size: 30x;
+    font-weight: bold;
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px 25px;
+    text-align: center;
+}
+nav ul li a{
+    color: rgb(94, 60, 57);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer{
+    border-style: groove;
+    align-items: center;
+    padding-left: 44%;
+
+}
+button{
+    text-decoration: none;
+    background-color: Cornsilk;
+    color: coral;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 30px;
+}
+.contato{
+  padding-bottom: 45%;
+  padding-top: 1%;
+  text-align: center;
+}
+.email{
+  text-decoration: none;
+  color: rgb(94, 60, 57);
+  font-weight: bold;
+  text-align: center;   
+  
+  
+}
